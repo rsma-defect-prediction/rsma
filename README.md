@@ -1,6 +1,3 @@
-# rsma
-R software metrics analysis
-
 # A package for R software metrics analysis
 
 ## Description
