@@ -46,7 +46,7 @@ All the data sets available are:
 
 ## Statistical and machine learning methods
 The functions available perform different algorithms for defect prediction. The methods used are feature selection (to select the best variables), supervised and unsupervised learning (to make the actual prediction models). 
-- naive.bayes.results 
+
 - select.backward 
 - select.forward 
 - select.lasso.conv 
