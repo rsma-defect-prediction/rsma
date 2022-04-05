@@ -7,6 +7,10 @@ The rsma package provides two things:
 
 - functions to run different statistical learning algorithms over the data sets, in order to see which ones perform better for defect prediction
 
+To run the demo code, see https://github.com/rsma-defect-prediction/rsma.demo.
+For detailed descriptions of the datasets, their source and explanation of each variable, see the other repositories at https://github.com/rsma-defect-prediction.
+For instructions on how to extract and install the packages, see https://github.com/rsma-defect-prediction/rsma.documentation.
+
 ## Datasets
 The available data sets come from different repositories. They contain metrics that come from Eclipse software (or its related plugins), NASA, Github or some other source. Most of the metrics are computed from Java or C++ source code. 
 To obtain the data sets, install the following packages: 
